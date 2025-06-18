@@ -1,49 +1,73 @@
-# Simple Portfolio
+# 💼 Simple Portfolio Website – Clean & Responsive Personal Web Page
 
-A minimal personal portfolio website with two pages: Home and Contact.  
-Built using only HTML and basic CSS—no frameworks or advanced libraries.
+**Simple Portfolio** is a clean, user-friendly personal website built with HTML and CSS, designed to showcase your work, interests, and provide a way for visitors to connect with you.
 
-## Features
+---
 
-- Clean, modern, and responsive design
-- Home page to introduce yourself and showcase your skills, experience, or projects
-- Contact page for visitors to reach out to you via a simple contact form or your contact details
-- Easy to customize: just edit the HTML and CSS files
+## 👨‍💻 Project Overview — Portfolio Website
 
-## Getting Started
+This is a straightforward, responsive site with two main pages:
 
-### Prerequisites
+---
 
-- Any modern web browser
+### 🏠 Home Page (`index.html`)
 
-### Installation
+The Home page introduces you and highlights your professional content with the following sections:
 
-1. **Clone or download this repository:**
-   ```bash
-   git clone https://github.com/raji-k001/simple-portfolio.git
-   cd simple-portfolio
-   ```
-2. **Open `index.html` (Home page) or `contact.html` (Contact page) in your web browser.**
+- **✍️ Name & Role:**  
+  Your name and professional title are displayed prominently at the top.
 
-No build tools or dependencies are required.
+- **📖 About Section:**  
+  A short paragraph where you can describe your professional focus or background. *(You can easily edit this section to fit your needs.)*
 
-### Customization
+- **🎯 Interests:**  
+  A clean, bulleted list of your interests, skills, or areas of expertise.
 
-- Edit `index.html` to update your introduction, skills, or projects.
-- Edit `contact.html` to update your contact form or contact details.
-- Update styles in `styles.css` to change the appearance.
+- **📂 Project Highlights:**  
+  Showcases several of your key projects. For each project, display the title and a short summary.
 
-## Project Structure
+- **🔗 LinkedIn Link:**  
+  Seamless social media integration with a link to your LinkedIn profile.
 
-```plaintext
-simple-portfolio/
-├── index.html       # Home page
-├── contact.html     # Contact page
-├── styles.css       # Basic CSS styling
+- **📬 Navigation Button:**  
+  A clear “Contact” button that takes visitors to your contact page.
 
+---
 
-## Contributing
+### 📞 Contact Page (`contact.html`)
 
-Contributions are welcome! Feel free to fork the repository and submit a pull request.
+A simple and effective form for users to get in touch with you:
 
-Thank you for visiting my portfolio website!
+- 👤 Name input
+- 📧 Email input
+- 💬 Message textarea
+- 📤 Submit button
+
+Additionally, a navigation link allows users to return to the Home page:
+
+- **🔙 Home Button:**  
+  Lets users easily navigate back to the Home page.
+
+---
+
+## 🔄 Navigation Flow
+
+- From **Home** ➡️ **Contact** via the “Contact” button.
+- From **Contact** ➡️ **Home** via the “Home” button.
+
+---
+
+## 🚀 Getting Started
+
+1. **Clone or download** this repository.
+2. Edit the `index.html` and `contact.html` files to personalize your name, about section, interests, projects, and contact details.
+3. Optionally, customize styles in the `style.css` file for your preferred look.
+4. Open `index.html` in your browser to view your portfolio!
+
+---
+
+## 🛠️ Tech Stack
+
+- **HTML** — For content structure
+- **CSS** — For clean, responsive design
+
