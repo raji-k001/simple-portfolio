@@ -10,12 +10,14 @@ body{
     padding: 50px;
 }
 .section-1{
-    background-color: black;
+    background-image:url(https://wallpapers.com/images/file/cover-art-background-1920-x-1080-7vga262o23prghe3.jpg);
+    background-position: center;
+    background-size: cover;
     color:white;
     padding:20px;
 }
 .section-1__contact{
-    background-color: orangered;
+    background-color: #0FA1D7;
     color: black;
     text-decoration: none;
     padding:5px 10px 5px 10px ;
@@ -36,7 +38,7 @@ body{
     margin-top: 10px;
 }
 .section-5{
-    background-color: black;
+    background-color: #08062B;
     color: white;
     padding:20px;
 }
@@ -44,8 +46,8 @@ body{
     list-style: none;
 }
 .section-3{
-    background-color: #6462FD;
-    color: black;
+    background-color:#02376D;
+    color:whitesmoke;
     padding: 20px;
    display: inline-block;
    height: 250px;
@@ -53,8 +55,8 @@ body{
    vertical-align: top;
 }
 .section-4{
-    background-color: #89D170;
-    color: black;
+    background-color:#021E4D;
+    color:whitesmoke;
     padding: 20px;
     display: inline-block;
     height:250px;
@@ -69,7 +71,7 @@ body{
 .contact-form__submit{
     margin-top: 10px;
     padding: 10px 20px 10px 20px;
-    background-color: orangered;
+    background-color: #70E5F5;
     color: black;
     border: none;
 }
